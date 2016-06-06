@@ -12,3 +12,5 @@ Run the tests using Gallio.Icarus after building them with Visual Studio.
 (Hint: If you installed the Visual Studio help documentation for MbUnit, then you
        can easily navigate to the documentation of any MbUnit API method
        within the IDE by hitting F1!)
+
+To run your MbUnit tests on the cloud, refer BrowserStack's example repository - (https://github.com/browserstack/mbunit-browserstack).
